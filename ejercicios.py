@@ -1,7 +1,7 @@
 #Dada la lista de precios de productos en dólares, usa map() con lambda para convertirlos a euros.
 # Suponiendo que 1 USD = 0.92 EUR
 
-# Lista de precios en dólares
+# Lista de precios en dólares:
 precios_usd = [10, 20, 35, 50, 100]
 
 
@@ -9,7 +9,6 @@ precios_usd = [10, 20, 35, 50, 100]
 
 
 #Dada una lista de edades, usa filter() con lambda para quedarte solo con las edades de personas mayores de 18 años.
-
 
 edades = [12, 18, 25, 30, 15, 10, 21]
 
