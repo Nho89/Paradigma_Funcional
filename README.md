@@ -11,8 +11,6 @@ En este repositorio exploramos el fascinante mundo de la programación funcional
 3. [Ejemplos en Python](#ejemplos-en-python)
 4. [Presentación](#presentación)
     - [Enlace de Canva](#enlace-de-canva)
-    - [PDF](#pdf)
-5. [Imagen](#imagen)
 6. [Autor](#autor)
 
 ## Introducción
@@ -33,20 +31,14 @@ En este repositorio encontrarás ejemplos claros y sencillos de cómo usar las f
 - **`filter()`**: Filtra los elementos de un iterable en base a una condición.
 - **`list()`**: Convierte un iterable en una lista.
 
-(Ver los ejemplos en los archivos correspondientes.)
+(Ver los ejemplos en los archivos adjuntos.)
 
 ## Presentación
 
-Puedes ver la presentación que acompaña este repositorio a través de los siguientes enlaces:
+Puedes ver la presentación que acompaña este repositorio a través del siguiente enlace:
 
-- [Presentación en Canva](#enlace-de-canva)
-- [PDF de la presentación](#pdf)
+- [Presentación en Canva](https://www.canva.com/design/DAGeUnuLUIo/UyBPx6Jfyvj01b34sxDPyQ/view?utm_content=DAGeUnuLUIo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hfa265308d9)
 
-## Imagen
-
-Aquí puedes agregar una imagen relacionada con el paradigma funcional en Python.
-
-![Imagen de ejemplo](ruta/a/tu/imagen.png)
 
 ## Autor
 
