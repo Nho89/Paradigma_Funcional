@@ -20,6 +20,10 @@ edades = [12, 18, 25, 30, 15, 10, 21]
 
 
 #Dada una lista de personas con nombre y edad, usa sorted() con lambda para ordenarlas por edad.
+# Pista:
+# estructura para usar sorted() :
+# sorted(lista, key=lambda elemento: elemento["clave por la que ordenar"])
+
 
 personas = [
     {"nombre": "Ana", "edad": 30},

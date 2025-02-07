@@ -20,6 +20,6 @@ personas = [
     {"nombre": "Luis", "edad": 25}
 ]
 
-personas_ordenadas = sorted(personas, key=lambda p: p["edad"])
+personas_ordenadas = sorted(personas, key=lambda x: x["edad"])
 print(personas_ordenadas)
 
